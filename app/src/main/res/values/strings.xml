@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Finger Fast</string>
+    <string name="timer">Time</string>
+    <string name="thousand">1000</string>
+    <string name="tap">Tap Tap</string>
+    <string name="alert_title">The Game is finished. would you like to reset the game</string>
+    <string name="alert_message">Congratulations!</string>
+</resources>
